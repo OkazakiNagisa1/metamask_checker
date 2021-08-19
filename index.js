@@ -1,5 +1,5 @@
-var fs = require('fs-extra');
-var path = require('path');
+let fs = require('fs-extra');
+let path = require('path');
 const fsNative = require('fs');
 const request = require('request');
 function req(option) {
